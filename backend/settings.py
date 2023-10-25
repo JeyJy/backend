@@ -115,7 +115,7 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
     'http://localhost:8000',
-    'http://todo.up.railway.app'
+    'http://todolist1.up.railway.app'
 ]
 
 # Internationalization
